@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+여기는 인천대학교 **컴퓨터 알고리즘**을 수강하기 위한 연습 블로그입니다.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+블로그 운영자에 대한 정보는 아래와 같습니다.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* 이름 : 이한
+* 학번 : 201301613
+* 주소 : 경기도 부천시 중동 거주
+* email : ihan128@inu.ac.kr
 
+<br/>
 
-[jekyll-organization]: https://github.com/jekyll
+블로그에는 주로 강의에 대한 내용과 실습 내용들 그리고 프로그래밍과 관련하여 개인적인 학습 내용을 게시할 예정입니다.
+
+<br/>
+
+*블로그 창설일 2020-03-29*
