@@ -28,7 +28,7 @@ background: '/img/bg-post.jpg'
 
 곱셈 *n*번과 덧셈 *n-1* 번이다.
 
-따라서, **C** 전체를 구할 경우 **C**의 크기는 *n x n*이므로
+따라서, **C** 전체를 구할 경우 **C**의 크기는 n * n이므로
 
 곱셈 ![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2015%2F10%2F7%2Fifgkifggg728op.jpg%22&type=w2)번 그리고 덧셈을 ![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2015%2F10%2F7%2Fifgkizvgb1657n.jpg%22&type=w2) 번 하게 된다.
 
@@ -94,7 +94,7 @@ background: '/img/bg-post.jpg'
 
 ### C++ 행렬 곱셉 알고리즘!
 
-1. 행렬의 곱셈
+아주 간단하게 C++ 언어로 행렬 곱셈을 구현해보자!
 
 ~~~c++
 #include <iostream>
