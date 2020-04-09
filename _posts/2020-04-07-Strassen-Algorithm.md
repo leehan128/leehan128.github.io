@@ -12,7 +12,7 @@ background: '/img/bg-post.jpg'
 
 ### 행렬의 곱셈
 
-크기가 *n x n*인 두 행렬 **A**와 **B**의 곱을 **C**로 나타내고자 한다.
+크기가 n * n인 두 행렬 **A**와 **B**의 곱을 **C**로 나타내고자 한다.
 
 **A**의 원소를 ![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2015%2F10%2F7%2Fifgk9ri3338ptm.jpg%22&type=w2) 라 하고, ![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2015%2F10%2F7%2Fifgkavqe24i89q.jpg%22&type=w2) 는 가로 ![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2015%2F10%2F7%2Fifgkb607pg9oe3.jpg%22&type=w2) 는 세로를 나타낸다.
 
@@ -36,7 +36,7 @@ background: '/img/bg-post.jpg'
 
 ### 행렬의 곱셈 점화식
 
-다음의 예는 *n x n*의 정사각 행렬의 크기가 ![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2015%2F10%2F7%2Fifgm25ktqv49bn.jpg%22&type=w2) 이다.
+다음의 예는 n * n의 정사각 행렬의 크기가 ![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2015%2F10%2F7%2Fifgm25ktqv49bn.jpg%22&type=w2) 이다.
 
 ※![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2015%2F10%2F7%2Fifgm25ktqv49bn.jpg%22&type=w2) 이 아닐 때는 가로세로에 0으로 채워진 가로세로 줄을 추가해서 ![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2015%2F10%2F7%2Fifgm25ktqv49bn.jpg%22&type=w2) 을 만들어준다. 절반씩 줄이기 때문에 2의 제곱승으로 만들어주는 거다.
 
@@ -128,7 +128,7 @@ int main()
 }
 ~~~
 
-2x2 행렬인 A와 B의 곱을 구해보았다. 우리집 컴퓨터를 기준으로 실행시간은 **0.05401초** 걸렸다.
+2*2 행렬인 A와 B의 곱을 구해보았다. 우리집 컴퓨터를 기준으로 실행시간은 **0.05401초** 걸렸다.
 
 이 다음은 슈트라센 알고리즘을 직접 구현해 볼 생각이다. 위에서 미리 값을 주고 간단하게 곱셈만 실행한 만큼 공정한 비교를 위해 아래에서도 비교적 간략하게 구현해볼 생각이다.
 
