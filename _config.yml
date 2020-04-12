@@ -5,6 +5,10 @@ author:             Start Bootstrap
 baseurl:            ""
 url:                "https://leehan128.github.io"
 
+disqus : shortname : https-leehan128-github-io
+
+comments : true
+
 # Social Profiles
 twitter_username:   SBootstrap
 github_username:    BlackrockDigital
