@@ -28,10 +28,10 @@ layout: default
       <div class="col-lg-8 col-md-10 mx-auto">
 
         {{ content }}
-
+    
         <!-- Home Post List -->
         {% for post in site.posts limit : 5 %}
-
+    
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             <h2 class="post-title">{{ post.title }}</h2>
@@ -51,16 +51,17 @@ layout: default
             {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
           </p>
         </article>
-
+    
         <hr>
-
+    
         {% endfor %}
-
+    
         <!-- Pager -->
         <div class="clearfix">
           <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
         </div>
-
+    
       </div>
     </div>
+
   </div>
