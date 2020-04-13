@@ -24,28 +24,12 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
-\# Disqus
-
-discus-identifier: leehan128-github-io
+discus_identifier: leehan128-github-io
 
 comments : true
 
 provider : "disqus"
-
-disqus : 
 
 disqus_shortname : "leehan128-github-io"
 
 # add your discus identifier
-
-\# Disqus
-
-discus-identifier: leehan128-github-io
-
-comments : true
-
-provider : "disqus"
-
-disqus : 
-
-shortname : "leehan128-github-io"
