@@ -5,6 +5,7 @@ date: 2020-04-03 12:10:10
 author: leehan
 background: '/img/bg-post.jpg'
 comments : true
+categories : Programming
 ---
 
 # 프로그래밍 언어 탐구
