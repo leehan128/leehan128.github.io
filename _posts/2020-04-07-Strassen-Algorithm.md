@@ -10,7 +10,7 @@ categories : Programming
 
 
 
-# Strassen Algorithm
+# [Strassen Algorithm](https://m.blog.naver.com/PostView.nhn?blogId=babobigi&logNo=220502327816&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 ### 행렬의 곱셈
 
@@ -73,6 +73,8 @@ categories : Programming
 위의 **P**부터 **V**를 가지고, 덧셈만으로 **A**와 **B** 행렬의 곱인 **C** 행렬을 찾을 수 있다.
 
 ![](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fssl.pstatic.net%2Fimages.se2%2Fsmedit%2F2015%2F10%2F7%2Fifgmve7rpku5qa.jpg%22&type=w2) 
+
+<br/>
 
 ### Strassen Algorithm 점화식
 
