@@ -5,8 +5,6 @@ author:             Start Bootstrap
 baseurl:            ""
 url:                "https://leehan128.github.io"
 
-comments : true
-
 # Social Profiles
 twitter_username:   SBootstrap
 github_username:    BlackrockDigital
@@ -21,6 +19,33 @@ markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
+
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+\# Disqus
+
+discus-identifier: leehan128-github-io
+
+comments : true
+
+provider : "disqus"
+
+disqus : 
+
+disqus_shortname : "leehan128-github-io"
+
+# add your discus identifier
+
+\# Disqus
+
+discus-identifier: leehan128-github-io
+
+comments : true
+
+provider : "disqus"
+
+disqus : 
+
+shortname : "leehan128-github-io"
