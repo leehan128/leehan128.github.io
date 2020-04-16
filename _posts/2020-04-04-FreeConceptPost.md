@@ -6,6 +6,7 @@ author: leehan
 background: '/img/bg-post.jpg'
 comments : true
 categories : Programming
+tags : 대학 과제
 ---
 
 # 프로그래밍 언어 탐구
