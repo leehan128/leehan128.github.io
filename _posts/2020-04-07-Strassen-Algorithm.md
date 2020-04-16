@@ -6,7 +6,7 @@ date : 2020-04-07 10:10:10
 author: leehan
 background: '/img/bg-post.jpg'
 categories : Altorithm
-tags : Algorithm, 대학 과제
+tags : [Algorithm, 대학과제]
 ---
 
 
