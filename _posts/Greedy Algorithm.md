@@ -1,7 +1,7 @@
 ---
 layout: post
 titile: Greedy Algorithm
-date: 2020-04-026 18:10:10
+date: 2020-04-26 18:10:10
 author: leehan
 background: '/img/bg-post.jpg'
 comments : true
