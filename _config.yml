@@ -33,3 +33,5 @@ provider : "disqus"
 disqus_shortname : "leehan128-github-io"
 
 # add your discus identifier
+
+theme: jekyll-theme-minimal
